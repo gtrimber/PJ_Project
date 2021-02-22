@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-22T23:21:12.313Z" agent="5.0 (X11)" etag="KfwTDuyADswacXde-Q_l" version="14.4.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-02-22T23:32:04.260Z" agent="5.0 (X11)" etag="xy0Z4ylERPabeCPJagYW" version="14.4.2" type="github" pages="3">
   <diagram id="oReBMB4SCxNkka226rkY" name="Page-2">
     <mxGraphModel dx="1289" dy="676" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -424,9 +424,6 @@
         </mxCell>
         <mxCell id="Q9AayY8bbe3keEV-GmuI-86" value="&lt;font style=&quot;font-size: 21px&quot;&gt;&lt;b&gt;Bioassay Planting Design&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-90;" parent="LaA7QAu--uG6gZiCFBrJ-1" vertex="1">
           <mxGeometry x="-72" y="307" width="267" height="21" as="geometry" />
-        </mxCell>
-        <mxCell id="24ykImf31YxQ1bMY4YU1-1" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=1;fillColor=#C3ABD0;image=https://mycorrhizas.info/ecm/pinerootdraw.gif;" parent="LaA7QAu--uG6gZiCFBrJ-1" vertex="1">
-          <mxGeometry x="260" y="651" width="400" height="310" as="geometry" />
         </mxCell>
         <mxCell id="24ykImf31YxQ1bMY4YU1-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.freeiconspng.com/thumbs/tall-grass-png/tall-grass-png-hd-photo-16.png;" parent="LaA7QAu--uG6gZiCFBrJ-1" vertex="1">
           <mxGeometry x="108" y="96" width="43" height="58.05" as="geometry" />

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-25T21:38:38.528Z" agent="5.0 (X11)" etag="xdDkPTiKFrnN-5bWw5h-" version="14.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-25T21:39:41.113Z" agent="5.0 (X11)" etag="SuKpDTgoMp6Xk0KxpcN3" version="14.5.1" type="github" pages="2">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="969" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -81,7 +81,7 @@
         <mxCell id="7QLJqIOtz3sLccU7WzUr-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="7QLJqIOtz3sLccU7WzUr-4" target="7QLJqIOtz3sLccU7WzUr-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7QLJqIOtz3sLccU7WzUr-4" value="Clean and align sequences ( staden? muscle? mega? bioedit?)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="7QLJqIOtz3sLccU7WzUr-4" value="Clean and align sequences&amp;nbsp; w/ staden? muscle? mega? bioedit?)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="190" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7QLJqIOtz3sLccU7WzUr-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7QLJqIOtz3sLccU7WzUr-5" target="7QLJqIOtz3sLccU7WzUr-6" edge="1">

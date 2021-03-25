@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-25T21:33:14.974Z" agent="5.0 (X11)" etag="wOciW2VxTXi1QBdhgjao" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-25T21:38:38.528Z" agent="5.0 (X11)" etag="xdDkPTiKFrnN-5bWw5h-" version="14.5.1" type="github" pages="2">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="969" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -140,6 +140,119 @@
         </mxCell>
         <mxCell id="5ONBgUVJyg_PDsRNAtLN-1" value="illumina sequencing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="380" width="120" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="RtmJoO2RZ9Y5Cq9UHPOb" name="Page-2">
+    <mxGraphModel dx="969" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="W30DS4WQERMmbrbb7VWl-0" />
+        <mxCell id="W30DS4WQERMmbrbb7VWl-1" parent="W30DS4WQERMmbrbb7VWl-0" />
+        <mxCell id="MLu_neak2q9iXrOHS2LY-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="W30DS4WQERMmbrbb7VWl-1" source="MLu_neak2q9iXrOHS2LY-3" target="MLu_neak2q9iXrOHS2LY-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MLu_neak2q9iXrOHS2LY-3" value="&lt;div&gt;Field data:&lt;/div&gt;&lt;div&gt;-date&lt;/div&gt;&lt;div&gt;-sample name&lt;br&gt;&lt;/div&gt;&lt;div&gt;-location coordinates&lt;/div&gt;&lt;div&gt;-other observations&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="W30DS4WQERMmbrbb7VWl-1">
+          <mxGeometry x="50" y="610" width="120" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="MLu_neak2q9iXrOHS2LY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="W30DS4WQERMmbrbb7VWl-1" source="MLu_neak2q9iXrOHS2LY-7" target="MLu_neak2q9iXrOHS2LY-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MLu_neak2q9iXrOHS2LY-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="W30DS4WQERMmbrbb7VWl-1" source="MLu_neak2q9iXrOHS2LY-7" target="MLu_neak2q9iXrOHS2LY-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MLu_neak2q9iXrOHS2LY-7" value="Ali&#39;s Dark Septate Endophyte Samples" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="W30DS4WQERMmbrbb7VWl-1">
+          <mxGeometry x="40" y="80" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="MLu_neak2q9iXrOHS2LY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="W30DS4WQERMmbrbb7VWl-1" source="MLu_neak2q9iXrOHS2LY-9" target="MLu_neak2q9iXrOHS2LY-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MLu_neak2q9iXrOHS2LY-9" value="inoculate greenhouse plants" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="W30DS4WQERMmbrbb7VWl-1">
+          <mxGeometry x="190" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MLu_neak2q9iXrOHS2LY-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="W30DS4WQERMmbrbb7VWl-1" source="MLu_neak2q9iXrOHS2LY-11" target="MLu_neak2q9iXrOHS2LY-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MLu_neak2q9iXrOHS2LY-11" value="Process roots, extract fungal DNA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="W30DS4WQERMmbrbb7VWl-1">
+          <mxGeometry x="190" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MLu_neak2q9iXrOHS2LY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="W30DS4WQERMmbrbb7VWl-1" source="MLu_neak2q9iXrOHS2LY-13" target="MLu_neak2q9iXrOHS2LY-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MLu_neak2q9iXrOHS2LY-13" value="amplify ITS region between 18S-28S rRNA using PCR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="W30DS4WQERMmbrbb7VWl-1">
+          <mxGeometry x="190" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MLu_neak2q9iXrOHS2LY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="W30DS4WQERMmbrbb7VWl-1" source="MLu_neak2q9iXrOHS2LY-15" target="MLu_neak2q9iXrOHS2LY-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MLu_neak2q9iXrOHS2LY-15" value="Run sanger sequencing on amplified DNA/RNA?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="W30DS4WQERMmbrbb7VWl-1">
+          <mxGeometry x="190" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MLu_neak2q9iXrOHS2LY-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="W30DS4WQERMmbrbb7VWl-1" source="MLu_neak2q9iXrOHS2LY-17" target="MLu_neak2q9iXrOHS2LY-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MLu_neak2q9iXrOHS2LY-17" value="output sequence&lt;br&gt; data" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="W30DS4WQERMmbrbb7VWl-1">
+          <mxGeometry x="190" y="610" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MLu_neak2q9iXrOHS2LY-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="W30DS4WQERMmbrbb7VWl-1" source="MLu_neak2q9iXrOHS2LY-21" target="MLu_neak2q9iXrOHS2LY-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="1080" />
+              <mxPoint x="520" y="1080" />
+              <mxPoint x="520" y="997" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MLu_neak2q9iXrOHS2LY-21" value="Write script to pull GPS coords and overlay onto .json base map " style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="W30DS4WQERMmbrbb7VWl-1">
+          <mxGeometry x="50" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MLu_neak2q9iXrOHS2LY-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="W30DS4WQERMmbrbb7VWl-1" source="MLu_neak2q9iXrOHS2LY-23" target="MLu_neak2q9iXrOHS2LY-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MLu_neak2q9iXrOHS2LY-23" value="Clean and align sequences w/ staden? muscle? mega? bioedit?" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="W30DS4WQERMmbrbb7VWl-1">
+          <mxGeometry x="190" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MLu_neak2q9iXrOHS2LY-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="W30DS4WQERMmbrbb7VWl-1" source="MLu_neak2q9iXrOHS2LY-25" target="MLu_neak2q9iXrOHS2LY-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MLu_neak2q9iXrOHS2LY-25" value="create consensus sequence (CAP3?)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="W30DS4WQERMmbrbb7VWl-1">
+          <mxGeometry x="190" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MLu_neak2q9iXrOHS2LY-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="W30DS4WQERMmbrbb7VWl-1" source="MLu_neak2q9iXrOHS2LY-27" target="MLu_neak2q9iXrOHS2LY-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MLu_neak2q9iXrOHS2LY-27" value="automate BLASTn search" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="W30DS4WQERMmbrbb7VWl-1">
+          <mxGeometry x="190" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MLu_neak2q9iXrOHS2LY-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="W30DS4WQERMmbrbb7VWl-1" source="MLu_neak2q9iXrOHS2LY-29" target="MLu_neak2q9iXrOHS2LY-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="459" y="1005" />
+              <mxPoint x="459" y="615" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MLu_neak2q9iXrOHS2LY-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="W30DS4WQERMmbrbb7VWl-1" source="MLu_neak2q9iXrOHS2LY-29" target="MLu_neak2q9iXrOHS2LY-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="1005" />
+              <mxPoint x="460" y="925" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MLu_neak2q9iXrOHS2LY-29" value="Output OTUs" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="W30DS4WQERMmbrbb7VWl-1">
+          <mxGeometry x="200" y="960" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MLu_neak2q9iXrOHS2LY-37" value="&lt;div&gt;Create final output figure with dots&lt;/div&gt;&lt;div&gt; representing each species/OTU/genus.&lt;br&gt;Size of dot will indicate abundance, &lt;br&gt;&lt;/div&gt;&lt;div&gt;color will indicate taxa,&lt;/div&gt;&lt;div&gt;and location on figure will&lt;/div&gt;&lt;div&gt; indicate where collected&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="W30DS4WQERMmbrbb7VWl-1">
+          <mxGeometry x="530" y="770" width="310" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="MLu_neak2q9iXrOHS2LY-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="W30DS4WQERMmbrbb7VWl-1" source="MLu_neak2q9iXrOHS2LY-39" target="MLu_neak2q9iXrOHS2LY-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MLu_neak2q9iXrOHS2LY-39" value="create vector-based tracing of EMF root tips for main taxa found" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="W30DS4WQERMmbrbb7VWl-1">
+          <mxGeometry x="617.5" y="580" width="135" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

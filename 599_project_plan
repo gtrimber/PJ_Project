@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-26T00:12:55.894Z" agent="5.0 (X11)" etag="Rc6G5JeQDugYRgmxcfcO" version="14.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-26T00:21:08.948Z" agent="5.0 (X11)" etag="JJZxfoHkC8VdvUJuzPec" version="14.5.1" type="github" pages="2">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="969" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -141,6 +141,9 @@
         <mxCell id="5ONBgUVJyg_PDsRNAtLN-1" value="illumina sequencing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="380" width="120" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="u-I2B2IKCPkau_D9P9mP-1" value="&lt;div&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;My Actual Project &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;(Pinyon Ectomycorrhizae)&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="100" width="360" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -256,6 +259,9 @@
             <mxPoint x="110" y="760" as="sourcePoint" />
             <mxPoint x="110" y="880" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="UdZBsdzGWg8u3UP0XjUA-0" value="&lt;font style=&quot;font-size: 30px&quot;&gt;BIO 599 Project Using Ali&#39;s Data&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="W30DS4WQERMmbrbb7VWl-1">
+          <mxGeometry x="290" y="160" width="450" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

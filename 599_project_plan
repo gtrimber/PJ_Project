@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-27T00:33:36.913Z" agent="5.0 (X11)" etag="0Z3HDtjhFM5rGkXL9bPS" version="14.5.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-27T00:34:32.598Z" agent="5.0 (X11)" etag="Rbn3Wic12tH4ep6ZYSTq" version="14.5.1" type="github" pages="2">
   <diagram id="wFE0QG_FPsp0jaGvCLVb" name="Page-1">
     <mxGraphModel dx="1262" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -27,7 +27,7 @@
         <mxCell id="zB4dkB_0IWS_WAqMBJbC-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="zB4dkB_0IWS_WAqMBJbC-4" target="zB4dkB_0IWS_WAqMBJbC-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zB4dkB_0IWS_WAqMBJbC-4" value="Collect soils from field" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="zB4dkB_0IWS_WAqMBJbC-4" value="Collect soils from field" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="40" y="80" width="140" height="130" as="geometry" />
         </mxCell>
         <mxCell id="zB4dkB_0IWS_WAqMBJbC-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="zB4dkB_0IWS_WAqMBJbC-7" target="zB4dkB_0IWS_WAqMBJbC-8" edge="1">
@@ -105,7 +105,7 @@
         <mxCell id="7QLJqIOtz3sLccU7WzUr-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="7QLJqIOtz3sLccU7WzUr-13" target="7QLJqIOtz3sLccU7WzUr-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7QLJqIOtz3sLccU7WzUr-13" value="get sequences into usable format using CIIME?" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="7QLJqIOtz3sLccU7WzUr-13" value="get sequences into usable format using QIIME2" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="330" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7QLJqIOtz3sLccU7WzUr-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7QLJqIOtz3sLccU7WzUr-15" target="7QLJqIOtz3sLccU7WzUr-17" edge="1">

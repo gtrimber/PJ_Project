@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-09T06:43:49.126Z" agent="5.0 (X11)" etag="K0skL0ahYmPwdBoX3wua" version="14.5.8" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-04-10T04:38:24.548Z" agent="5.0 (X11)" etag="WnfJNCmCrLAxUTRaEfUY" version="14.5.9" type="github" pages="3">
   <diagram id="ilLjjxnwN2By9oM7nyrx" name="Page-3">
-    <mxGraphModel dx="1102" dy="670" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="835" dy="498" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="LaA7QAu--uG6gZiCFBrJ-0" />
         <mxCell id="LaA7QAu--uG6gZiCFBrJ-1" parent="LaA7QAu--uG6gZiCFBrJ-0" />
@@ -319,13 +319,13 @@
         <mxCell id="GiYhPDx51UPpuqHQWOYi-37" value="&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;Effect of Grasses&lt;br&gt; on Ectomycorrhizal&lt;br&gt; Colonization&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="LaA7QAu--uG6gZiCFBrJ-1" vertex="1">
           <mxGeometry x="63.5" y="699" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="sh7P-qQA7PARxkysjLbZ-0" value="" style="endArrow=none;html=1;" edge="1" parent="LaA7QAu--uG6gZiCFBrJ-1">
+        <mxCell id="sh7P-qQA7PARxkysjLbZ-0" value="" style="endArrow=none;html=1;" parent="LaA7QAu--uG6gZiCFBrJ-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="823" as="sourcePoint" />
             <mxPoint x="450" y="773" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sh7P-qQA7PARxkysjLbZ-1" value="" style="endArrow=none;html=1;" edge="1" parent="LaA7QAu--uG6gZiCFBrJ-1">
+        <mxCell id="sh7P-qQA7PARxkysjLbZ-1" value="" style="endArrow=none;html=1;" parent="LaA7QAu--uG6gZiCFBrJ-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="56" y="786" as="sourcePoint" />
             <mxPoint x="574" y="795" as="targetPoint" />
@@ -335,14 +335,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="meuG4qTMSX7T2H00i6nI" name="Page-2">
-    <mxGraphModel dx="1102" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="835" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="HJ60O013w7KPoSx01iu--0" />
         <mxCell id="HJ60O013w7KPoSx01iu--1" parent="HJ60O013w7KPoSx01iu--0" />
-        <mxCell id="HJ60O013w7KPoSx01iu--2" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="HJ60O013w7KPoSx01iu--1">
+        <mxCell id="HJ60O013w7KPoSx01iu--2" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" parent="HJ60O013w7KPoSx01iu--1" vertex="1">
           <mxGeometry x="160.63" y="-76.87" width="520" height="803.75" as="geometry" />
         </mxCell>
-        <mxCell id="HJ60O013w7KPoSx01iu--14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="HJ60O013w7KPoSx01iu--1" source="HJ60O013w7KPoSx01iu--3" target="HJ60O013w7KPoSx01iu--4">
+        <mxCell id="HJ60O013w7KPoSx01iu--14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="HJ60O013w7KPoSx01iu--1" source="HJ60O013w7KPoSx01iu--3" target="HJ60O013w7KPoSx01iu--4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="425" y="130" />
@@ -350,56 +350,78 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HJ60O013w7KPoSx01iu--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="HJ60O013w7KPoSx01iu--1" source="HJ60O013w7KPoSx01iu--3" target="HJ60O013w7KPoSx01iu--5">
+        <mxCell id="HJ60O013w7KPoSx01iu--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="HJ60O013w7KPoSx01iu--1" source="HJ60O013w7KPoSx01iu--3" target="HJ60O013w7KPoSx01iu--5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HJ60O013w7KPoSx01iu--3" value="&lt;b&gt;Why aren&#39;t pinyons coming back post fire&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HJ60O013w7KPoSx01iu--1">
+        <mxCell id="HJ60O013w7KPoSx01iu--3" value="&lt;b&gt;Why aren&#39;t pinyons coming back post fire&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="HJ60O013w7KPoSx01iu--1" vertex="1">
           <mxGeometry x="344" y="90" width="162.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HJ60O013w7KPoSx01iu--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="HJ60O013w7KPoSx01iu--1" source="HJ60O013w7KPoSx01iu--4" target="HJ60O013w7KPoSx01iu--5">
+        <mxCell id="HJ60O013w7KPoSx01iu--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="HJ60O013w7KPoSx01iu--1" source="HJ60O013w7KPoSx01iu--4" target="HJ60O013w7KPoSx01iu--5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qEg4Ztrkf72hM0Dm4hsP-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="HJ60O013w7KPoSx01iu--1" source="HJ60O013w7KPoSx01iu--4">
+        <mxCell id="qEg4Ztrkf72hM0Dm4hsP-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="HJ60O013w7KPoSx01iu--1" source="HJ60O013w7KPoSx01iu--4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HJ60O013w7KPoSx01iu--4" value="Do grasses have an effect on pinyon regeneration" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HJ60O013w7KPoSx01iu--1">
+        <mxCell id="HJ60O013w7KPoSx01iu--4" value="Do grasses have an effect on pinyon regeneration" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="HJ60O013w7KPoSx01iu--1" vertex="1">
           <mxGeometry x="250" y="160" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HJ60O013w7KPoSx01iu--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HJ60O013w7KPoSx01iu--1" source="HJ60O013w7KPoSx01iu--5" target="HJ60O013w7KPoSx01iu--4">
+        <mxCell id="HJ60O013w7KPoSx01iu--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="HJ60O013w7KPoSx01iu--1" source="HJ60O013w7KPoSx01iu--5" target="HJ60O013w7KPoSx01iu--4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HJ60O013w7KPoSx01iu--5" value="Do mycorrhizae have an effect on pinyon regeneration" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HJ60O013w7KPoSx01iu--1">
-          <mxGeometry x="500" y="160" width="140" height="20" as="geometry" />
+        <mxCell id="HJ60O013w7KPoSx01iu--5" value="Do mycorrhizae have an effect on pinyon regeneration" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="HJ60O013w7KPoSx01iu--1" vertex="1">
+          <mxGeometry x="506.5" y="165" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HJ60O013w7KPoSx01iu--9" value="native vs invasive grasses" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HJ60O013w7KPoSx01iu--1">
+        <mxCell id="HJ60O013w7KPoSx01iu--9" value="native vs invasive grasses" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="HJ60O013w7KPoSx01iu--1" vertex="1">
           <mxGeometry x="210" y="100" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="HJ60O013w7KPoSx01iu--16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="HJ60O013w7KPoSx01iu--1" source="HJ60O013w7KPoSx01iu--10" target="HJ60O013w7KPoSx01iu--12">
+        <mxCell id="HJ60O013w7KPoSx01iu--16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="HJ60O013w7KPoSx01iu--1" source="HJ60O013w7KPoSx01iu--10" target="HJ60O013w7KPoSx01iu--12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="250" />
+              <mxPoint x="590" y="300" />
+              <mxPoint x="340" y="300" />
+              <mxPoint x="340" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElTU7585ytAFbsuApes7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="HJ60O013w7KPoSx01iu--1" source="HJ60O013w7KPoSx01iu--11" target="HJ60O013w7KPoSx01iu--12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HJ60O013w7KPoSx01iu--11" value="Is thi inhibition of pinyon growth due to legacy effects of grasses vs pj" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="HJ60O013w7KPoSx01iu--1" vertex="1">
+          <mxGeometry x="270" y="240" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ElTU7585ytAFbsuApes7-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="HJ60O013w7KPoSx01iu--1" source="HJ60O013w7KPoSx01iu--12" target="HJ60O013w7KPoSx01iu--10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="360" />
+              <mxPoint x="340" y="300" />
+              <mxPoint x="590" y="300" />
+              <mxPoint x="590" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ElTU7585ytAFbsuApes7-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="HJ60O013w7KPoSx01iu--1" source="HJ60O013w7KPoSx01iu--12" target="HJ60O013w7KPoSx01iu--11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HJ60O013w7KPoSx01iu--10" value="Is the inhibition of pinyon growth due to direct competition?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HJ60O013w7KPoSx01iu--1">
-          <mxGeometry x="280" y="240" width="120" height="20" as="geometry" />
+        <mxCell id="HJ60O013w7KPoSx01iu--12" value="are the grasses causing a change in mycorrhizae " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="HJ60O013w7KPoSx01iu--1" vertex="1">
+          <mxGeometry x="370" y="340" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HJ60O013w7KPoSx01iu--17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="HJ60O013w7KPoSx01iu--1" source="HJ60O013w7KPoSx01iu--11" target="HJ60O013w7KPoSx01iu--12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="HJ60O013w7KPoSx01iu--11" value="Is thi inhibition of pinyon growth due to legacy effects of grasses vs pj" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HJ60O013w7KPoSx01iu--1">
-          <mxGeometry x="280" y="315" width="140" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="HJ60O013w7KPoSx01iu--12" value="are the grasses causing a change in mycorrhizae " style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HJ60O013w7KPoSx01iu--1">
-          <mxGeometry x="490" y="240" width="130" height="40" as="geometry" />
+        <mxCell id="HJ60O013w7KPoSx01iu--10" value="Is the inhibition of pinyon growth due to direct competition?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="HJ60O013w7KPoSx01iu--1" vertex="1">
+          <mxGeometry x="450" y="240" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="y9Ha2TnkBj2PloK5dNod" name="Page-4">
-    <mxGraphModel dx="1102" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="835" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Nz25PeReNm_jweCz3h2E-0" />
         <mxCell id="Nz25PeReNm_jweCz3h2E-1" parent="Nz25PeReNm_jweCz3h2E-0" />
-        <mxCell id="ZfFVjuxzvI6J0uW89MrR-0" value="" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;dx=80;dy=80;" vertex="1" parent="Nz25PeReNm_jweCz3h2E-1">
+        <mxCell id="ZfFVjuxzvI6J0uW89MrR-0" value="" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;dx=80;dy=80;" parent="Nz25PeReNm_jweCz3h2E-1" vertex="1">
           <mxGeometry x="80" y="80" width="380" height="310" as="geometry" />
         </mxCell>
       </root>
